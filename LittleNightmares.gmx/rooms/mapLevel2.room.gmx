@@ -3,8 +3,8 @@
   <caption></caption>
   <width>5000</width>
   <height>5000</height>
-  <vsnap>32</vsnap>
-  <hsnap>32</hsnap>
+  <vsnap>16</vsnap>
+  <hsnap>16</hsnap>
   <isometric>0</isometric>
   <speed>30</speed>
   <persistent>0</persistent>
@@ -17,8 +17,8 @@ instance_create(0,0,oOptimalizace)</code>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
     <isSet>-1</isSet>
-    <w>1456</w>
-    <h>876</h>
+    <w>1928</w>
+    <h>1053</h>
     <showGrid>0</showGrid>
     <showObjects>-1</showObjects>
     <showTiles>-1</showTiles>
@@ -28,8 +28,8 @@ instance_create(0,0,oOptimalizace)</code>
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
     <deleteUnderlyingTiles>0</deleteUnderlyingTiles>
     <page>0</page>
-    <xoffset>1317</xoffset>
-    <yoffset>1778</yoffset>
+    <xoffset>559</xoffset>
+    <yoffset>1749</yoffset>
   </makerSettings>
   <backgrounds>
     <background visible="-1" foreground="0" name="background4" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -297,9 +297,9 @@ instance_create(0,0,oOptimalizace)</code>
     <instance objName="oWall1" x="1792" y="2080" name="inst_50D3039B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="1792" y="2112" name="inst_1B2D8ADF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="1792" y="2144" name="inst_D13488A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oLever" x="2304" y="2432" name="inst_2547DA25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oLever" x="2112" y="2432" name="inst_BC589891" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oLever" x="1888" y="2432" name="inst_3C5B943E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="&lt;undefined&gt;" x="2304" y="2432" name="inst_2547DA25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="&lt;undefined&gt;" x="2112" y="2432" name="inst_BC589891" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="&lt;undefined&gt;" x="1888" y="2432" name="inst_3C5B943E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="2368" y="2016" name="inst_F86DA55D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="2368" y="2048" name="inst_9E39854B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="2368" y="2080" name="inst_11125311" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -381,13 +381,13 @@ instance_create(0,0,oOptimalizace)</code>
     <instance objName="oWall4" x="1216" y="2496" name="inst_0AFD5DDD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall4" x="1280" y="2496" name="inst_05EA07EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall4" x="1248" y="2496" name="inst_51C5F4D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oWall2" x="1056" y="2144" name="inst_F9179A49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oWall2" x="1056" y="2176" name="inst_DE2057EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oWall2" x="1056" y="2208" name="inst_05559157" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oWall2" x="1056" y="2240" name="inst_72329C9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oWall2" x="1056" y="2272" name="inst_8202E218" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oWall2" x="1056" y="2304" name="inst_9FDE7F59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oWall2" x="1056" y="2336" name="inst_49B26964" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oLever3" x="2304" y="2432" name="inst_3505A5E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oLever2" x="2112" y="2432" name="inst_A4F61559" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oLever1" x="1888" y="2432" name="inst_B4A55D73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDoor14PUZZLE" x="1808" y="2336" name="inst_041986AE" locked="0" code="for (a = 1 a&lt; 11 a++)&#xA;    {&#xA;    podminka[a] = 0;&#xA;    }&#xA;    &#xA;for (a = 20 a&lt; 30 a++)&#xA;    {&#xA;    podminka[a] = 0;&#xA;    }&#xA;podminka[1] = (100246) // Podmínka ke splnění [&gt;0 &amp;&amp; &lt; 11]  (id objektu)&#xA;podminka[2] = (100247) // Podmínka ke splnění&#xA;&#xA;podminka[20] = (100245) // Podmínka k nesplnění [&gt;20 &amp;&amp; &lt; 30]&#xA;" scaleX="1" scaleY="1.72000002861023" colour="4294967295" rotation="0"/>
+    <instance objName="oCoin" x="448" y="2272" name="inst_DD5C694B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oBulletin" x="256" y="2400" name="inst_39E30484" locked="0" code="text = &quot;Toto je přenášeč vzpomínek, pokud ho aktivuješ tak se po smrti dostaneš sem.&quot;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oCheckPoint" x="384" y="2528" name="inst_B0E8C7AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall3" x="1056" y="1952" name="inst_114EA1E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall3" x="1056" y="1920" name="inst_979244DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall3" x="1056" y="1888" name="inst_5640C37F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -876,10 +876,9 @@ instance_create(0,0,oOptimalizace)</code>
     <instance objName="oCoin" x="3040" y="1408" name="inst_047BC648" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oCoin" x="3072" y="1440" name="inst_B4687104" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oCoin" x="2944" y="1440" name="inst_30725764" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oCheckPoint" x="384" y="2528" name="inst_B0E8C7AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oBulletin" x="256" y="2400" name="inst_39E30484" locked="0" code="text = &quot;Toto je přenášeč vzpomínek, pokud ho aktivuješ tak se po smrti dostaneš sem.&quot;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oCoin" x="448" y="2272" name="inst_DD5C694B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="oDoor14PUZZLE" x="1808" y="2336" name="inst_041986AE" locked="0" code="for (a = 1 a&lt; 11 a++)&#xA;    {&#xA;    podminka[a] = 0;&#xA;    }&#xA;    &#xA;for (a = 20 a&lt; 30 a++)&#xA;    {&#xA;    podminka[a] = 0;&#xA;    }&#xA;podminka[1] = (100246) // Podmínka ke splnění [&gt;0 &amp;&amp; &lt; 11]  (id objektu)&#xA;podminka[2] = (100247) // Podmínka ke splnění&#xA;&#xA;podminka[20] = (100245) // Podmínka k nesplnění [&gt;20 &amp;&amp; &lt; 30]&#xA;" scaleX="1" scaleY="1.72000002861023" colour="4294967295" rotation="0"/>
+    <instance objName="oWall4" x="1056" y="2336" name="inst_4AE4FA5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oWall4" x="1056" y="2144" name="inst_F45ECF73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDoor14KYTKY" x="1072" y="2336" name="inst_22A7F81A" locked="0" code="" scaleX="1" scaleY="1.72000002861023" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="background5" x="1664" y="1552" w="32" h="32" xo="32" yo="0" id="10002303" name="inst_1D76A49F" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
