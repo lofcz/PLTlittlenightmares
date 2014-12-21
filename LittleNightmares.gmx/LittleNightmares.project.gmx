@@ -135,6 +135,7 @@
       <object>objects\oWall4</object>
       <object>objects\oDoor41</object>
       <object>objects\oDoor14PUZZLE</object>
+      <object>objects\oDoor14KYTKY</object>
       <object>objects\oWall2</object>
       <object>objects\oCrate</object>
       <object>objects\oIn</object>
@@ -176,7 +177,13 @@
       <object>objects\oShadow1</object>
     </objects>
     <objects name="Interactable">
-      <object>objects\oLever</object>
+      <objects name="Levers">
+        <object>objects\oLever1</object>
+        <object>objects\oLever2</object>
+        <object>objects\oLever3</object>
+        <object>objects\oLever4</object>
+        <object>objects\oLever5</object>
+      </objects>
       <object>objects\oCheckPoint</object>
     </objects>
     <objects name="NPC">
@@ -184,9 +191,9 @@
     </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\mapLevel2</room>
     <room>rooms\mapMainMenu</room>
     <room>rooms\mapLevel1</room>
+    <room>rooms\mapLevel2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
