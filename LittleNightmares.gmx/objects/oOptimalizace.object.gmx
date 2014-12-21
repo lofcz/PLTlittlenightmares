@@ -61,6 +61,12 @@ instance_activate_object(oPlayer)
 instance_activate_object(oPlayerGhost)
 instance_activate_object(oVariableController)
 instance_activate_object(oFlower1IF)
+instance_activate_object(oLever1)
+instance_activate_object(oLever2)
+instance_activate_object(oLever3)
+instance_activate_object(oLever4)
+instance_activate_object(oLever5)
+
 
 </string>
           </argument>

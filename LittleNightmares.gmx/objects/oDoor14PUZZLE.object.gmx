@@ -28,6 +28,38 @@
             <string>activated = 0;
 can_be_activated = 0;
 can2 = 1;
+for(a = 1 a&lt;6 a++)
+      {
+        lever[a] = 0
+      }
+
+       if (instance_number(oLever1) &gt; 0)
+          {
+           lever[1] = instance_nearest(x,y,oLever1)
+          }
+       if (instance_number(oLever2) &gt; 0)
+          {
+           lever[2] = instance_nearest(x,y,oLever1)
+          }
+       if (instance_number(oLever3) &gt; 0)
+          {
+           lever[3] = instance_nearest(x,y,oLever1)
+          }
+       if (instance_number(oLever4) &gt; 0)
+          {
+           lever[4] = instance_nearest(x,y,oLever1)
+          }
+       if (instance_number(oLever5) &gt; 0)
+          {
+           lever[5] = instance_nearest(x,y,oLever1)
+          }
+      
+
+
+
+
+
+
 </string>
           </argument>
         </arguments>
@@ -52,6 +84,39 @@ can2 = 1;
             <kind>1</kind>
             <string>if (activated = 1) {if (image_angle &lt; 180) {image_angle+=5}}
 
+
+if (activated = 0)
+   {
+    if (oLever1.activated = 1 &amp;&amp; oLever2.activated = 1 &amp;&amp; oLever3.activated = 0)
+       {
+       activated = 1
+       }
+   }
+
+
+
+/*
+if (activated = 0 &amp;&amp; distance_to_object(oPlayer) &lt; 500)
+    {
+    for (a=1 a&lt; 6 a++)
+    {
+    if (lever[a] != 0)
+       {
+        if (lever[a].activated = lever[a])
+           {
+            can_be_activated = 1;
+           }
+           else {can_be_activated = 0}
+       }
+    
+    }
+    if (can_be_activated = 1) {activated = 1}
+    }
+
+
+
+
+/*
 if (activated = 0 &amp;&amp; distance_to_object(oPlayer) &lt; 300)
     {
     can2 = 1
