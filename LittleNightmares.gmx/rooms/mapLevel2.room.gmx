@@ -27,9 +27,9 @@ instance_create(0,0,oOptimalizace)</code>
     <showViews>0</showViews>
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
     <deleteUnderlyingTiles>0</deleteUnderlyingTiles>
-    <page>2</page>
-    <xoffset>802</xoffset>
-    <yoffset>1100</yoffset>
+    <page>0</page>
+    <xoffset>1073</xoffset>
+    <yoffset>1146</yoffset>
   </makerSettings>
   <backgrounds>
     <background visible="-1" foreground="0" name="background4" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>

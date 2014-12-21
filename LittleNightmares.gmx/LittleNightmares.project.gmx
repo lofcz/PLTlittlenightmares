@@ -178,8 +178,8 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\mapMainMenu</room>
-    <room>rooms\mapLevel2</room>
     <room>rooms\mapLevel1</room>
+    <room>rooms\mapLevel2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
