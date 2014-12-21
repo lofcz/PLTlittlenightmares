@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>alarm[0]=3
+            <string>alarm[0]=1
 x=view_xview
 y=view_yview
 
