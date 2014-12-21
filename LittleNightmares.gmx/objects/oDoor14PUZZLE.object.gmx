@@ -52,14 +52,14 @@ can2 = 1;
             <kind>1</kind>
             <string>if (activated = 1) {if (image_angle &lt; 180) {image_angle+=5}}
 
-if (activated = 0)
+if (activated = 0 &amp;&amp; distance_to_object(oPlayer) &lt; 300)
     {
     can2 = 1
 for (a = 1 a&lt; 11 a++)
 {
-if ((podminka[a]) != 0 &amp;&amp; can2 = 1)
+if (podminka[a] != 0 &amp;&amp; can2 = 1)     //
     {
-    if ((podminka[a]).activated = 1) 
+    if (podminka[a].activated = 1)    //
         {
        
         can_be_activated = 1
@@ -71,9 +71,9 @@ if ((podminka[a]) != 0 &amp;&amp; can2 = 1)
 }
 for (a = 20 a&lt;30 a++)
     {
-if ((podminka[a]) != 0 )
+if (podminka[a] != 0 )       //
     {         
-    if ((podminka[a]).activated = 1) 
+    if (podminka[a].activated = 1)      //
         {
        
         can_be_activated = 0

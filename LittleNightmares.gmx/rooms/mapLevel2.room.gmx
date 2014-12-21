@@ -28,8 +28,8 @@ instance_create(0,0,oOptimalizace)</code>
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
     <deleteUnderlyingTiles>0</deleteUnderlyingTiles>
     <page>0</page>
-    <xoffset>1073</xoffset>
-    <yoffset>1146</yoffset>
+    <xoffset>1317</xoffset>
+    <yoffset>1778</yoffset>
   </makerSettings>
   <backgrounds>
     <background visible="-1" foreground="0" name="background4" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -52,7 +52,6 @@ instance_create(0,0,oOptimalizace)</code>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="oDoor14PUZZLE" x="1808" y="2336" name="inst_041986AE" locked="0" code="for (a = 1 a&lt; 11 a++)&#xA;    {&#xA;    podminka[a] = 0;&#xA;    }&#xA;    &#xA;for (a = 20 a&lt; 30 a++)&#xA;    {&#xA;    podminka[a] = 0;&#xA;    }&#xA;podminka[1] = (100248) // Podmínka ke splnění [&gt;0 &amp;&amp; &lt; 11]  (id objektu)&#xA;podminka[2] = (100247) // Podmínka ke splnění&#xA;&#xA;podminka[20] = (100246) // Podmínka k nesplnění [&gt;20 &amp;&amp; &lt; 30]&#xA;" scaleX="1" scaleY="1.72000002861023" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="2464" y="1984" name="inst_70307316" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oCoin" x="1536" y="1824" name="inst_1C8CED41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="1664" y="1984" name="inst_5D0E95FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -880,6 +879,7 @@ instance_create(0,0,oOptimalizace)</code>
     <instance objName="oCheckPoint" x="384" y="2528" name="inst_B0E8C7AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oBulletin" x="256" y="2400" name="inst_39E30484" locked="0" code="text = &quot;Toto je přenášeč vzpomínek, pokud ho aktivuješ tak se po smrti dostaneš sem.&quot;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oCoin" x="448" y="2272" name="inst_DD5C694B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="oDoor14PUZZLE" x="1808" y="2336" name="inst_041986AE" locked="0" code="for (a = 1 a&lt; 11 a++)&#xA;    {&#xA;    podminka[a] = 0;&#xA;    }&#xA;    &#xA;for (a = 20 a&lt; 30 a++)&#xA;    {&#xA;    podminka[a] = 0;&#xA;    }&#xA;podminka[1] = (100246) // Podmínka ke splnění [&gt;0 &amp;&amp; &lt; 11]  (id objektu)&#xA;podminka[2] = (100247) // Podmínka ke splnění&#xA;&#xA;podminka[20] = (100245) // Podmínka k nesplnění [&gt;20 &amp;&amp; &lt; 30]&#xA;" scaleX="1" scaleY="1.72000002861023" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="background5" x="1664" y="1552" w="32" h="32" xo="32" yo="0" id="10002303" name="inst_1D76A49F" depth="100000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

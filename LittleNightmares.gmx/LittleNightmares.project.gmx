@@ -60,6 +60,9 @@
       <sprite>sprites\sBackEffect</sprite>
       <sprite>sprites\sBolt</sprite>
     </sprites>
+    <sprites name="NPC">
+      <sprite>sprites\sMerchant</sprite>
+    </sprites>
     <sprite>sprites\sMessageBox</sprite>
     <sprite>sprites\sprite27</sprite>
     <sprite>sprites\sNextLevel</sprite>
@@ -75,6 +78,7 @@
     <sprite>sprites\sDeath</sprite>
     <sprite>sprites\sprite48</sprite>
     <sprite>sprites\sCursor</sprite>
+    <sprite>sprites\sShop</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Tilesets">
@@ -175,11 +179,14 @@
       <object>objects\oLever</object>
       <object>objects\oCheckPoint</object>
     </objects>
+    <objects name="NPC">
+      <object>objects\oMerchant</object>
+    </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\mapLevel2</room>
     <room>rooms\mapMainMenu</room>
     <room>rooms\mapLevel1</room>
-    <room>rooms\mapLevel2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
