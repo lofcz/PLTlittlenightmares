@@ -35,7 +35,9 @@
       <sprite>sprites\sDispenser2</sprite>
       <sprite>sprites\sWall2</sprite>
       <sprite>sprites\sWall1</sprite>
+      <sprite>sprites\sWall5</sprite>
       <sprite>sprites\sWall4</sprite>
+      <sprite>sprites\sWallGhostBlock</sprite>
       <sprite>sprites\sprite30</sprite>
       <sprite>sprites\sCrate</sprite>
       <sprite>sprites\sprite9</sprite>
@@ -79,6 +81,7 @@
     <sprite>sprites\sprite48</sprite>
     <sprite>sprites\sCursor</sprite>
     <sprite>sprites\sShop</sprite>
+    <sprite>sprites\sManaOrb</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Tilesets">
@@ -122,6 +125,7 @@
     <object>objects\par_player</object>
     <objects name="Walls">
       <object>objects\oWall1</object>
+      <object>objects\oWall5</object>
       <object>objects\sWall1Red</object>
       <object>objects\oWall3</object>
       <object>objects\oWall4</object>
@@ -163,6 +167,7 @@
       <object>objects\oCoin</object>
       <object>objects\oCoinIF</object>
       <object>objects\oKey</object>
+      <object>objects\oManaOrb</object>
       <object>objects\oMagicSign</object>
       <object>objects\oMagicSign2</object>
       <object>objects\par_sign</object>
