@@ -79,6 +79,7 @@
     <sprite>sprites\sprite48</sprite>
     <sprite>sprites\sCursor</sprite>
     <sprite>sprites\sShop</sprite>
+    <sprite>sprites\sManaOrb</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Tilesets">
@@ -160,6 +161,7 @@
       <object>objects\oMagicSign2</object>
       <object>objects\par_sign</object>
       <object>objects\oMedpack</object>
+      <object>objects\oManaOrb</object>
     </objects>
     <objects name="Controllers">
       <object>objects\oRoomTransition</object>
