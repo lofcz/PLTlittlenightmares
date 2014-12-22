@@ -121,6 +121,18 @@
     <object>objects\oPlayerGhost</object>
     <object>objects\par_player</object>
     <objects name="Walls">
+      <objects name="Lght Control">
+        <object>objects\oIn</object>
+        <object>objects\oIn1use</object>
+        <object>objects\oOut</object>
+      </objects>
+      <objects name="Doors">
+        <object>objects\oDoor41</object>
+        <object>objects\oDoor14</object>
+        <object>objects\oDoor14PUZZLE</object>
+        <object>objects\oDoor14KYTKY</object>
+        <object>objects\oDoor14COINS</object>
+      </objects>
       <object>objects\oWall1</object>
       <object>objects\sWall1Red</object>
       <object>objects\oWall3</object>
@@ -128,13 +140,6 @@
       <object>objects\oWall2</object>
       <object>objects\oSpikeWall</object>
       <object>objects\oCrate</object>
-    </objects>
-    <objects name="Doors">
-      <object>objects\oDoor41</object>
-      <object>objects\oDoor14</object>
-      <object>objects\oDoor14PUZZLE</object>
-      <object>objects\oDoor14KYTKY</object>
-      <object>objects\oDoor14COINS</object>
     </objects>
     <objects name="Traps">
       <object>objects\oDispenser</object>
@@ -191,11 +196,6 @@
     </objects>
     <objects name="NPC">
       <object>objects\oMerchant</object>
-    </objects>
-    <objects name="Lght Control">
-      <object>objects\oIn</object>
-      <object>objects\oIn1use</object>
-      <object>objects\oOut</object>
     </objects>
   </objects>
   <rooms name="rooms">
