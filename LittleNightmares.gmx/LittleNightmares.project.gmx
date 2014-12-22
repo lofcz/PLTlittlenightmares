@@ -107,6 +107,7 @@
       <script>scripts\scrEffectNextLevel.gml</script>
       <script>scripts\scrEffectMedpack.gml</script>
       <script>scripts\scrEffectCheckpoint.gml</script>
+      <script>scripts\scrEffectKey.gml</script>
     </scripts>
     <scripts name="Functions">
       <script>scripts\scrRoomTransition.gml</script>
