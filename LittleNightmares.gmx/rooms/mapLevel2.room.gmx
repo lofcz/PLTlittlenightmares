@@ -297,9 +297,6 @@ instance_create(0,0,oOptimalizace)</code>
     <instance objName="oWall1" x="1792" y="2080" name="inst_50D3039B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="1792" y="2112" name="inst_1B2D8ADF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="1792" y="2144" name="inst_D13488A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="2304" y="2432" name="inst_2547DA25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="2112" y="2432" name="inst_BC589891" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="1888" y="2432" name="inst_3C5B943E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="2368" y="2016" name="inst_F86DA55D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="2368" y="2048" name="inst_9E39854B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="oWall1" x="2368" y="2080" name="inst_11125311" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

@@ -79,7 +79,6 @@
     <sprite>sprites\sprite48</sprite>
     <sprite>sprites\sCursor</sprite>
     <sprite>sprites\sShop</sprite>
-    <sprite>sprites\sManaOrb</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Tilesets">
@@ -121,6 +120,26 @@
     <object>objects\oPlayer</object>
     <object>objects\oPlayerGhost</object>
     <object>objects\par_player</object>
+    <objects name="Walls">
+      <object>objects\oWall1</object>
+      <object>objects\sWall1Red</object>
+      <object>objects\oWall3</object>
+      <object>objects\oWall4</object>
+      <object>objects\oWall2</object>
+      <object>objects\oSpikeWall</object>
+      <object>objects\oCrate</object>
+    </objects>
+    <objects name="Doors">
+      <object>objects\oDoor41</object>
+      <object>objects\oDoor14</object>
+      <object>objects\oDoor14PUZZLE</object>
+      <object>objects\oDoor14KYTKY</object>
+      <object>objects\oDoor14COINS</object>
+    </objects>
+    <objects name="Traps">
+      <object>objects\oDispenser</object>
+      <object>objects\oDispenser2</object>
+    </objects>
     <objects name="Buttons">
       <object>objects\oContinue</object>
       <object>objects\oNewGame</object>
@@ -128,24 +147,6 @@
       <object>objects\oEndGame</object>
       <object>objects\oOptions</object>
       <object>objects\oLittlenightmares</object>
-    </objects>
-    <objects name="Walls">
-      <object>objects\oWall1</object>
-      <object>objects\sWall1Red</object>
-      <object>objects\oWall3</object>
-      <object>objects\oWall4</object>
-      <object>objects\oDoor41</object>
-      <object>objects\oDoor14PUZZLE</object>
-      <object>objects\oDoor14KYTKY</object>
-      <object>objects\oDoor14COINS</object>
-      <object>objects\oWall2</object>
-      <object>objects\oCrate</object>
-      <object>objects\oIn</object>
-      <object>objects\oIn1use</object>
-      <object>objects\oOut</object>
-      <object>objects\oSpikeWall</object>
-      <object>objects\oDispenser</object>
-      <object>objects\oDispenser2</object>
     </objects>
     <objects name="Misc">
       <object>objects\oArrow</object>
@@ -161,7 +162,6 @@
       <object>objects\oMagicSign2</object>
       <object>objects\par_sign</object>
       <object>objects\oMedpack</object>
-      <object>objects\oManaOrb</object>
     </objects>
     <objects name="Controllers">
       <object>objects\oRoomTransition</object>
@@ -191,6 +191,11 @@
     </objects>
     <objects name="NPC">
       <object>objects\oMerchant</object>
+    </objects>
+    <objects name="Lght Control">
+      <object>objects\oIn</object>
+      <object>objects\oIn1use</object>
+      <object>objects\oOut</object>
     </objects>
   </objects>
   <rooms name="rooms">
