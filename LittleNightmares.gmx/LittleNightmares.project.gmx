@@ -121,18 +121,6 @@
     <object>objects\oPlayerGhost</object>
     <object>objects\par_player</object>
     <objects name="Walls">
-      <objects name="Lght Control">
-        <object>objects\oIn</object>
-        <object>objects\oIn1use</object>
-        <object>objects\oOut</object>
-      </objects>
-      <objects name="Doors">
-        <object>objects\oDoor41</object>
-        <object>objects\oDoor14</object>
-        <object>objects\oDoor14PUZZLE</object>
-        <object>objects\oDoor14KYTKY</object>
-        <object>objects\oDoor14COINS</object>
-      </objects>
       <object>objects\oWall1</object>
       <object>objects\sWall1Red</object>
       <object>objects\oWall3</object>
@@ -140,10 +128,22 @@
       <object>objects\oWall2</object>
       <object>objects\oSpikeWall</object>
       <object>objects\oCrate</object>
-    </objects>
-    <objects name="Traps">
-      <object>objects\oDispenser</object>
-      <object>objects\oDispenser2</object>
+      <objects name="Doors">
+        <object>objects\oDoor41</object>
+        <object>objects\oDoor14</object>
+        <object>objects\oDoor14PUZZLE</object>
+        <object>objects\oDoor14KYTKY</object>
+        <object>objects\oDoor14COINS</object>
+      </objects>
+      <objects name="Traps">
+        <object>objects\oDispenser</object>
+        <object>objects\oDispenser2</object>
+      </objects>
+      <objects name="Light Control">
+        <object>objects\oIn</object>
+        <object>objects\oIn1use</object>
+        <object>objects\oOut</object>
+      </objects>
     </objects>
     <objects name="Buttons">
       <object>objects\oContinue</object>
