@@ -49,6 +49,7 @@
     </sprites>
     <sprites name="Items">
       <sprite>sprites\sCoin</sprite>
+      <sprite>sprites\sCoinGhost</sprite>
       <sprite>sprites\sCoinIF</sprite>
       <sprite>sprites\sKey</sprite>
     </sprites>
@@ -70,7 +71,7 @@
     <sprite>sprites\sNextLevel</sprite>
     <sprite>sprites\sWall3</sprite>
     <sprite>sprites\sBulletin</sprite>
-    <sprite>sprites\sprite32</sprite>
+    <sprite>sprites\sLever</sprite>
     <sprite>sprites\sMedpack</sprite>
     <sprite>sprites\sFlowerSource</sprite>
     <sprite>sprites\sFlower1</sprite>
